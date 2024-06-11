@@ -1,3 +1,5 @@
+Merging the tech stacks of REACTJS, SCSS , JAVASCRIPT & cloud backend platform FIREBASE to learn, implement and deploy the FULL STACK web app WHATSON chatting app!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
