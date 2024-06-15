@@ -7,8 +7,8 @@ const Login = () =>{
             <span className='logo'>WhatsOn</span>
             <span className='title'>Login</span>
                 <form>
-                    <input type='email' placeholder='Email'/>
-                    <input type='password' placeholder='Password'/>
+                    <input type='email' id="email" placeholder='Email'/>
+                    <input type='password' id="password" placeholder='Password'/>
                     <button>Login</button>
                 </form>
                 <p>Don't have an account? Sign Up</p>
