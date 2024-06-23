@@ -1,4 +1,10 @@
 Merging the tech stacks of REACTJS, SCSS , JAVASCRIPT & cloud backend platform FIREBASE to learn, implement and deploy the FULL STACK web app WHATSON chatting app!!
+# Screenshots
+![image](https://github.com/Annapurna0311/WhatsOn-chat-app/assets/146976500/31fdc45b-ed3c-4f67-a201-8a29d096fd54)
+
+![image](https://github.com/Annapurna0311/WhatsOn-chat-app/assets/146976500/c6a1f7ec-da9c-4e1c-be89-ae2630694e7a)
+
+![image](https://github.com/Annapurna0311/WhatsOn-chat-app/assets/146976500/8ceb4fc6-f133-44b6-bd2d-bda5a3cbb801)
 
 # Getting Started with Create React App
 
